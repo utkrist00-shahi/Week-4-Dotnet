@@ -1,0 +1,15 @@
+D:\dotnet tutorial\task 1\task 2\bin\Debug\net9.0\task 2.exe
+D:\dotnet tutorial\task 1\task 2\bin\Debug\net9.0\task 2.deps.json
+D:\dotnet tutorial\task 1\task 2\bin\Debug\net9.0\task 2.runtimeconfig.json
+D:\dotnet tutorial\task 1\task 2\bin\Debug\net9.0\task 2.dll
+D:\dotnet tutorial\task 1\task 2\bin\Debug\net9.0\task 2.pdb
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.AssemblyInfoInputs.cache
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.AssemblyInfo.cs
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.csproj.CoreCompileInputs.cache
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.sourcelink.json
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.dll
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\refint\task 2.dll
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.pdb
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\task 2.genruntimeconfig.cache
+D:\dotnet tutorial\task 1\task 2\obj\Debug\net9.0\ref\task 2.dll
